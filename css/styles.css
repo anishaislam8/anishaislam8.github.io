@@ -11368,6 +11368,15 @@ p.lead {
     max-height: 15rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
+  .img-profile2 {
+    max-width: 15rem;
+    max-height: 15rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+  }
+  .img-fluid2 {
+    max-width: 100%;
+    height: auto;
+  }
   #sideNav .navbar-collapse {
     display: flex;
     align-items: flex-start;
